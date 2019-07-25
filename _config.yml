@@ -1,11 +1,11 @@
 # Site settings
 author: Hyungjun Kang
-title: 
+title: Blog
 header-img: img/home-bg.png
 email: hyungjun.kang@yahoo.com
 copyright_name: Hyungjun Kang
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Data Science
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tyoon1016
